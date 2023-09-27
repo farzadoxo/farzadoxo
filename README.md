@@ -19,7 +19,7 @@
 
 **✤ Dm me on discord : [@farzadoxo](https://dsc.bio/farzadoxo)**
 
-*(My website and email are in my profile)*
+*(My website and email are in my profile details)*
 
 # 🗣 Interaction :
 Ask anything : [issues](https://github.com/farzadoxo/farzadoxo/issues)
