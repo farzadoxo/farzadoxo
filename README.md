@@ -9,17 +9,19 @@
 ![batchscript](https://img.shields.io/badge/batch_script-000000?style=for-the-badge&logo=windows)
 ![wordpress](https://img.shields.io/badge/wordpress-2a92c2?style=for-the-badge&logo=wordpress)
 
-# 📊 Github status :
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&show_icons=true&theme=radical&rank_icon=github&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact)
-
 # 📱 Contact me :
 **✤ My discord server : [Join](https://discord.gg/XEpFbnqrTq)**
 
 **✤ Dm me on discord : [@farzadoxo](https://dsc.bio/farzadoxo)**
 
 *(My website and email are in my profile details)*
+
+# 📊 Github status :
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&show_icons=true&theme=radical&rank_icon=github&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact)
+
+
 
 # 🗣 Interaction :
 Ask anything : [issues](https://github.com/farzadoxo/farzadoxo/issues)
