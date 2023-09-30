@@ -25,3 +25,6 @@
 
 # 🗣 Interaction :
 Ask anything : [issues](https://github.com/farzadoxo/farzadoxo/issues)
+
+________________________________________
+![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
