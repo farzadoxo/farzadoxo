@@ -18,7 +18,7 @@
 
 # 📊 Github status :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&show_icons=true&theme=radical&rank_icon=github&text_color=ffffff)
+![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&show_icons=true&theme=radical&rank_icon=github&text_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact)
 
 
