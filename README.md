@@ -8,6 +8,7 @@
 ![csharp](https://img.shields.io/badge/c%23-9947ee?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![batchscript](https://img.shields.io/badge/batch_script-000000?style=for-the-badge&logo=windows)
 ![wordpress](https://img.shields.io/badge/wordpress-2a92c2?style=for-the-badge&logo=wordpress)
+![sql](https://img.shields.io/badge/sql-FF7143?style=for-the-badge&logo=amazondocumentdb&logoColor=ffffff)
 
 # 📱 Contact me :
 **✤ My discord server : [Join](https://discord.gg/XEpFbnqrTq)**
