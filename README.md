@@ -1,21 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=39F729&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)](https://git.io/typing-svg)
 
 # 🗂 My skills :
-
-![python](https://img.shields.io/badge/Python-398cb3?style=for-the-badge&logo=python&logoColor=ffffff)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=2a92c2)
 ![html](https://img.shields.io/badge/html-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![css](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=ffffff)
+![sql](https://img.shields.io/badge/sql-78FFAD?style=for-the-badge&logo=amazondocumentdb&logoColor=000000)
 ![csharp](https://img.shields.io/badge/c%23-9947ee?style=for-the-badge&logo=csharp&logoColor=ffffff)
-![batchscript](https://img.shields.io/badge/batch_script-000000?style=for-the-badge&logo=windows)
-![wordpress](https://img.shields.io/badge/wordpress-2a92c2?style=for-the-badge&logo=wordpress)
-![sql](https://img.shields.io/badge/sql-FF7143?style=for-the-badge&logo=amazondocumentdb&logoColor=ffffff)
-
-# 📱 Contact me :
-**✤ My discord server : [Join](https://discord.gg/XEpFbnqrTq)**
-
-**✤ Dm me on discord : [@farzadoxo](https://dsc.bio/farzadoxo)**
-
-*(My website and email are in my profile details)*
+![batchscript](https://img.shields.io/badge/batch_script-000000?style=for-the-badge&logo=windows&logoColor=0398FF)
+![wordpress](https://img.shields.io/badge/wordpress-2a92c2?style=for-the-badge&logo=wordpress&logoColor=3E3E3E)
 
 # 📊 Github status :
 
@@ -25,7 +17,8 @@
 
 
 # 🗣 Interaction :
-Ask anything : [issues](https://github.com/farzadoxo/farzadoxo/issues)
+[![issues](https://shields.io/badge/Issues-ffffff?style=social&logo=github)](https://github.com/farzadoxo/farzadoxo/issues)
 
+[![server](https://shields.io/badge/Discord%20Server-ffffff?style=social&logo=discord)](https://discord.gg/XEpFbnqrTq)
 ________________________________________
 ![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
