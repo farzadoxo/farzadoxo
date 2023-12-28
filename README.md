@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)
+
 
 # 🗂 My skills :
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=2a92c2)
