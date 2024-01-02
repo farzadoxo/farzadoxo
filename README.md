@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Hey;Welcome+to+my+github+profile)
 
 
 # 🗂 My skills :
