@@ -21,5 +21,7 @@
 [![issues](https://shields.io/badge/Issues-ffffff?style=social&logo=github)](https://github.com/farzadoxo/farzadoxo/issues)
 
 [![server](https://shields.io/badge/Discord%20Server-ffffff?style=social&logo=discord)](https://discord.gg/XEpFbnqrTq)
+
+[![coffe](https://shields.io/badge/Buy%20Me%20a%20Coffe-FFDD00?style=social&logo=buymeacoffee)](https://www.coffeebede.com/farzadoxo)
 ________________________________________
 ![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
