@@ -13,9 +13,7 @@
 # 📊 Github status :
 
 ![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&show_icons=true&theme=radical&rank_icon=github&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&theme=radical)
 
 # 🗣 Interaction :
 [![issues](https://shields.io/badge/Issues-ffffff?style=social&logo=github)](https://github.com/farzadoxo/farzadoxo/issues)
