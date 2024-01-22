@@ -1,26 +1,9 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Burned&size=36&duration=4000&pause=1000&color=7F97FE&random=false&width=435&height=70&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BC+;Welcome+to+my+github)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=38&pause=600&color=3DC1F7&random=false&width=435&height=80&lines=Hey+%F0%9F%91%8B++;Welcome+to+my+github+%F0%9F%90%88+)](https://git.io/typing-svg)
 
 </div>
 
-# 🗂 My skills :
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=2a92c2)
-![html](https://img.shields.io/badge/html-FF5733?style=for-the-badge&logo=html5&logoColor=ffffff)
-![css](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=ffffff)
-![sql](https://img.shields.io/badge/sql-78FFAD?style=for-the-badge&logo=amazondocumentdb&logoColor=000000)
-![csharp](https://img.shields.io/badge/c%23-9947ee?style=for-the-badge&logo=csharp&logoColor=ffffff)
-![batchscript](https://img.shields.io/badge/batch_script-000000?style=for-the-badge&logo=windows&logoColor=0398FF)
-![wordpress](https://img.shields.io/badge/wordpress-2a92c2?style=for-the-badge&logo=wordpress&logoColor=3E3E3E)
-
-# 📊 Github status :
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=f1c3ff)
-
-# 🗣 Interaction :
-[![issues](https://shields.io/badge/Issues-ffffff?style=social&logo=github)](https://github.com/farzadoxo/farzadoxo/issues)
-
-[![server](https://shields.io/badge/Discord%20Server-ffffff?style=social&logo=discord)](https://discord.gg/XEpFbnqrTq)
-________________________________________
-![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
+<div align="center">
+  
+</div>
