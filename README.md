@@ -13,7 +13,7 @@
 # 📊 Github status :
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=f1c3ff)
 
 # 🗣 Interaction :
 [![issues](https://shields.io/badge/Issues-ffffff?style=social&logo=github)](https://github.com/farzadoxo/farzadoxo/issues)
