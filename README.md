@@ -31,6 +31,8 @@
 <div align="center">
 
 # Cantact me
-<img src="https://discordapp.com/api/guilds/1092045110776180756/widget.json">
+<a href="https://discord.gg/XEpFbnqrTq">
+  <img src="https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2">
+</a>
 
 </div>
