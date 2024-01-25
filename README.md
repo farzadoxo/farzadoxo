@@ -18,7 +18,7 @@
   
   # Coding status
   
-  ![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&hide_border=true&bg_color=0d1117&show_icons=true&rank_icon=github&text_color=ffffff&title_color=6237ff&text_bold=true&ring_color=fa8b17&icon_color=2fffac)
+  ![Farzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=farzadoxo&hide_border=true&bg_color=0d1117&show_icons=true&rank_icon=github&text_color=ffffff&title_color=8449fe&text_bold=true&ring_color=fa8b17&icon_color=2fffac)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&bg_color=0d1117&hide_border=true&title_color=9afa09&text_color=ffffff)
 </div>
 
@@ -28,8 +28,9 @@
   
 </div>
 
-<div align="center>
+<div align="center">
 
-
+# Cantact me
+<img src="https://discordapp.com/api/guilds/1092045110776180756/widget.json">
 
 </div>
