@@ -49,4 +49,6 @@ Actually, I also have a Discord server, if you like, join (invitation link is pl
   <img src="https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2">
 </a>
 
+<img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png">
+
 </div>
