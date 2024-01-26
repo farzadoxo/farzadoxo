@@ -43,12 +43,14 @@ Actually, I also have a Discord server, if you like, join (invitation link is pl
 </div>
 
 <div align="center">
-
+  
 # Cantact me
-<a href="https://discord.gg/XEpFbnqrTq">
-  <img src="https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2">
-</a>
+  
+<h4>⇩ My dicord server ⇩</h4>
 
-<img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png">
+[![My Discord Server](https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
+<h4>⇩ DM me on discord ⇩</h4>
+
+[![Discord DM](https://discord.c99.nl/widget/theme-3/1006459247057436703.png)](https://discordapp.com/users/1006459247057436703)
 
 </div>
