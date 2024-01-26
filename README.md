@@ -1,18 +1,24 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=38&pause=600&color=3DC1F7&random=false&width=435&height=80&lines=Welcome+to+my+github+%F0%9F%90%88+)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=45&pause=5000&center=true&vCenter=true&random=false&width=435&height=80&lines=Welcome+to+my+github+!)
 
 </div>
+
 
 <div align="center">
-
-  # About me 
-  <p>
-    I'm Farzad Ebrahimi from 🇮🇷
-    
-  </p>
+  
+# About me 
 
 </div>
+
+Hello my friend ! 👋 I'm **Farzad Ebrahimy** and my nickname is **'Farzad OXO'**.
+
+I 💖 programming and big wolrd of IT.
+I am skilled in API programming and I also like desktop programming.
+And i have small projects that you can see on my GitHub page.
+Most of my activity in cyberspace is on the Discord platform and I am not anywhere else
+Actually, I also have a Discord server, if you like, join (invitation link is placed below).
+
 
 <div align="center">
   
