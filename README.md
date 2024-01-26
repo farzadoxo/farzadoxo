@@ -30,6 +30,9 @@
 <div align="center">
 
 # My skills
+| 🎓 Languages | 🎸 Other |
+| ----------- | ----------- |
+| ![My Skills](https://skillicons.dev/icons?i=py,cs,html,css) | ![Services](https://skillicons.dev/icons?i=js,html,css,wasm)
   
 </div>
 
