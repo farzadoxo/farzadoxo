@@ -30,10 +30,11 @@
 <div align="center">
 
 # My skills
-| 🎓 Languages | 🎸 Other |
-| ----------- | ----------- |
-| ![My Skills](https://skillicons.dev/icons?i=py,cs,html,css) | ![Services](https://skillicons.dev/icons?i=js,html,css,wasm)
-  
+
+| 💻 Programming | 💻 Other | 🧸 Using Services And Apps |
+| ----------- | ----------- | ----------- |
+| ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) |  ![apps](https://skillicons.dev/icons?i=git,github,discord,elixir,powershell,replit,vscode,visualstudio)
+
 </div>
 
 <div align="center">
