@@ -31,7 +31,7 @@
 
 # My skills
 
-| 💻 Programming | 💻 Other | 🧸 Using Services And Apps |
+| 💻 Programming | 🔎 Other | 🧰 Using Apps |
 | ----------- | ----------- | ----------- |
 | ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,elixir,powershell,replit,vscode,visualstudio)
 </div>
