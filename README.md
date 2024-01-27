@@ -13,7 +13,7 @@
 
 Hello my friend ! 👋 I'm **Farzad Ebrahimy** and my nickname is **'Farzad OXO'**.
 
-I❤️programming and big wolrd of IT.
+I 💚 programming and big wolrd of IT.
 I am skilled in API programming and I also like desktop programming.
 And i have small projects that you can see on my GitHub page.
 Most of my activity in cyberspace is on the Discord platform and I am not anywhere else
