@@ -54,3 +54,6 @@ Actually, I also have a Discord server, if you like, join (invitation link is pl
 [![Discord DM](https://discord.c99.nl/widget/theme-3/1006459247057436703.png)](https://discordapp.com/users/1006459247057436703)
 
 </div>
+
+______
+![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
