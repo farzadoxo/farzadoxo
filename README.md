@@ -18,7 +18,8 @@ I am skilled in API programming and I also like desktop programming.
 And i have small projects that you can see on my GitHub page.
 Most of my activity in cyberspace is on the Discord platform and I am not anywhere else
 Actually, I also have a Discord server, if you like, join (invitation link is placed below).
-
+**And how did I discover my interest in programming?**
+When I was in the third grade of elementary school, I had an old computer. I always went around with it and tried to find new things on it.From there, my interest in the computer world was formed.I grew up and learned more about computers and got acquainted with the concept of programming. It was there that I fell in love with this profession because I could develop the computer world with it.
 
 <div align="center">
   
