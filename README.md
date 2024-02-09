@@ -31,7 +31,7 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzadoxo&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width= 40% />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 70% />
+  <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 80% />
   
 </div>
 
