@@ -11,7 +11,7 @@
 
 </div>
 
-Hello my friend ! 👋 I'm **Farzad Ebrahimy** and my nickname is **'Farzad OXO'**.
+Hello my friend ! 👋 I'm **Farzad Ebrahimi** and my nickname is **'Farzad OXO'**.
 
 I 💓 programming and big wolrd of IT.
 I am skilled in API programming and I also like desktop programming.
