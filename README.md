@@ -46,13 +46,13 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 
 <div align="center">
   
-# Cantact me
+# Social status
 
-<h3 align="left">Do you want to join my discord server?</h3>
+
   
 [![My Discord Server](https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
 
-<h3 align="left">Message me on Discord 😉</h3>
+
 
 [![Discord DM](https://discord.c99.nl/widget/theme-3/1006459247057436703.png)](https://discordapp.com/users/1006459247057436703)
 
