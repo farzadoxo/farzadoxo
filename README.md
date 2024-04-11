@@ -41,18 +41,14 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 
 | 💻 Programming | 🔎 Other | 🧰 Using Tools |
 | ----------- | ----------- | ----------- |
-| ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,elixir,powershell,replit,vscode,visualstudio)
+| ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,powershell,replit,vscode,visualstudio)
 </div>
 
 <div align="center">
   
 # Social status
-
-
   
 [![My Discord Server](https://discord.com/api/guilds/1092045110776180756/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
-
-
 
 [![Discord DM](https://discord.c99.nl/widget/theme-3/1006459247057436703.png)](https://discordapp.com/users/1006459247057436703)
 
