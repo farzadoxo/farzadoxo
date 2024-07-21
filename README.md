@@ -41,7 +41,7 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 
 | 💻 Programming | 🔎 Other | 🧰 Using Tools |
 | ----------- | ----------- | ----------- |
-| ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,powershell,replit,vscode,visualstudio)
+| ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,powershell,replit,vscode,visualstudio,linux)
 </div>
 
 <div align="center">
