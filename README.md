@@ -50,7 +50,10 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 
 [![Discord DM](https://discord.c99.nl/widget/theme-3/1006459247057436703.png)](https://discordapp.com/users/1006459247057436703)
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4SzDaeBMqRApV6tdnhOX0u?si=1d3279d7a5634ea4)
+
 </div>
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ______
 ![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
