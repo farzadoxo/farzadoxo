@@ -20,7 +20,7 @@ Most of my activity in cyberspace is on the Discord platform and I am not anywhe
 Actually.
 
 **How did I discover my interest in programming?** 💻</br>
-When I was in the third grade of elementary school, I had an old computer. I always went around with it and tried to find new things on it.From there, my interest in the computer world was formed.I grew up and learned more about computers and got acquainted with the concept of programming. It was there that I fell in love with this profession because I could develop the computer world with it. And now I am here and I will stay here to reach my **goal** 😉
+When I was in the third grade of elementary school, I had an old computer. I always went around with it and tried to find new things on it.From there, my interest in the computer world was formed.I grew up and learned more about computers and got acquainted with the concept of programming. It was there that I fell in love with this profession because I could develop the computer world with it. And now I am here and I will stay here to reach my **goal !** 😉
 
 <div align="center">
   
