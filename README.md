@@ -26,8 +26,7 @@ When I was in the third grade of elementary school, I had an old computer. I alw
   
   # Coding status
 
-  <img src="https://github-readme-stats.vercel.app/api?username=farzadoxo&hide_border=true&bg_color=0d1117&show_icons=true&rank_icon=github&text_color=ffffff&title_color=8449fe&text_bold=true&ring_color=fa8b17&icon_color=2fffac" width= 35% />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzadoxo&layout=compact&bg_color=0d1117&hide_border=true&title_color=9afa09&text_color=ffffff" width= 35% />
+<img src="https://myreadme.vercel.app/api/embed/farzadoxo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
   <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 80% />
   
