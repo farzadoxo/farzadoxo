@@ -27,6 +27,7 @@ When I was in the third grade of elementary school, I had an old computer. I alw
   # Coding status
 
 <img src="https://myreadme.vercel.app/api/embed/farzadoxo?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+[![status](https://myreadme.vercel.app/api/embed/farzadoxo?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/farzadoxo)]
 
   <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 80% />
   
