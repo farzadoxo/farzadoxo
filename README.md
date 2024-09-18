@@ -6,12 +6,15 @@
 </div>
 
 
-<div align="center">
+</div align="center">
   
 
+# About me
 
 </div id="about">
 <h2>About me</h2>
+
+
 
 Hello my friend 👋 I'am **Farzad Ebrahimi** 😄
 
