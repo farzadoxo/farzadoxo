@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/pixart.gif" width=80%>
-  <h2>𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘎𝘪𝘵𝘏𝘶𝘣<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /></h2>
+  <h3>𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘎𝘪𝘵𝘏𝘶𝘣<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /></h3>
 </div>
 
 
