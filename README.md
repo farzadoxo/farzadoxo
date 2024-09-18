@@ -2,16 +2,16 @@
 
   <img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/pixart.gif" width=80%>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=45&pause=5000&center=true&vCenter=true&random=false&width=435&height=80&lines=Welcome+to+my+github+!)](https://github.com/farzadoxo)
-
+  <h3>Welcome to my GitHub<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="45" height="35" /></h3>
 </div>
 
 
 <div align="center">
   
-# About me 
 
-</div>
+
+</div id="about">
+<h2>About me</h2>
 
 Hello my friend 👋 I'am **Farzad Ebrahimi** 😄
 
