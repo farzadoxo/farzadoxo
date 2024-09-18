@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/pix-art.gif">
+  <img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/pixart.gif">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=45&pause=5000&center=true&vCenter=true&random=false&width=435&height=80&lines=Welcome+to+my+github+!)](https://github.com/farzadoxo)
 
