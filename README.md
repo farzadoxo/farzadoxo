@@ -37,10 +37,17 @@
   | ----------- | ----------- | ----------- |
   | ![programming](https://skillicons.dev/icons?i=py,cs,html,css,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,powershell,replit,vscode,visualstudio,linux)
   </div>
-  <div id="social-status">
+
+  
+<div id="social-status">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" width="40" height="40"> Social Status</h1>
   <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png">
+  <a href="https://discord.com/users/1006459247057436703"><img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png"></a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Contact Me</h3>
+  <a href="https://www.linkedin.com/in/f-ebrahimi"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" height="45"></a>
+  <a href="https://discord.com/users/1006459247057436703"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="45" height="45"></a>
+  <a href="https://wa.link/05p626"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45" height="45"></a>
   </div>
 </div>
 
