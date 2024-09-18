@@ -1,4 +1,6 @@
 <div align="center">
+
+  <img src="https://github.com/farzadoxo/farzadoxo/tree/master/media/pix-art.gif">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Honk&size=45&pause=5000&center=true&vCenter=true&random=false&width=435&height=80&lines=Welcome+to+my+github+!)](https://github.com/farzadoxo)
 
@@ -55,5 +57,6 @@ When I was in the third grade of elementary school, I had an old computer. I alw
 ______
 ![views](https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false)
 
-
-<img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/nature.gif" align="center">
+<footer align="center">
+<img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/nature.gif">
+</footer>
