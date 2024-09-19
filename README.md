@@ -15,7 +15,7 @@
   Actually.
   
   <b>How did I discover my interest in Programming?</b> 💻</br>
-  When I was in the third grade of elementary school, I had an old computer. I always went around with it and tried to find new things on it.From there, my interest in the computer world was formed.I grew up and learned more about computers and got acquainted with the    concept of programming. It was there that I fell in love with this profession because I could develop the computer world with it. And now I am here and I will stay here to reach my **goal !** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
+  When I was in the third grade of elementary school, I had an old computer. I always went around with it and tried to find new things on it.From there, my interest in the computer world was formed.I grew up and learned more about computers and got acquainted with the    concept of programming. It was there that I fell in love with this profession because I could develop the computer world with it. And now I am here and I will stay here to reach my **goal !** 😉
 </p>
 </div>
 
@@ -53,10 +53,11 @@
 
 
 
-<div id="footer">
+<div id="extras">
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/nature.gif">
   </div>
-  <img src="https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false">
 </div>
+
+______
+<img src="https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false">
