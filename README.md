@@ -5,7 +5,7 @@
 
 
 <div id="about">
-  <h1><img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40" height="40">About me</h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40" height="40">More About me</h1>
 <p>
   Hello my friend 👋 I'am <b>Farzad Ebrahimi</b> 😄
   I was born in 2006 and currently live in Tehran 🌏 </br>
@@ -23,7 +23,8 @@
 <div id="coding-status">
   <h1><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" height="40"> Coding Status</h1>
   <div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/farzadoxo?panels=userstatistics,toplanguages,commitgraph">
+  <img src="https://github-readme-stats.vercel.app/api?username=farzadoxo&show=true&show_icons=true&theme=codeSTACKr&rank_icon=github" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzadoxo&theme=tokyonight" alt="mystreak" width="40%">
   <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 80% />
   </div>
 </div>
@@ -39,7 +40,7 @@
 
   
 <div id="social-status">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" width="40" height="40"> Social Status</h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" height="40"> Social Status</h1>
   <div align="center">
   <a href="https://discord.com/users/1006459247057436703"><img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png"></a>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
