@@ -43,7 +43,7 @@
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" height="40"> Social Status</h1>
   <div align="center">
   <a href="https://discord.com/users/1006459247057436703"><img src="https://discord.c99.nl/widget/theme-3/1006459247057436703.png"></a>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlagw5cxvvbpdwx54wpkxj2wyy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"></a>
   </div>
 </div>
 
