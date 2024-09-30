@@ -48,13 +48,5 @@
   </div>
 </div>
 
-
-
-<div id="extras">
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  </div>
-</div>
-
 ______
 <img src="https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=1&icon=5&pretty=false">
