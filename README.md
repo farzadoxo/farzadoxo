@@ -10,7 +10,7 @@
   Hello my friend 👋 I'am <b>Farzad Ebrahimi</b> 😄
   I was born in 2006 and currently live in Tehran 🌏 </br>
   I am a student studying software engineering and computer science 📚🤓 </br>
-  I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="20" height="20"> programming and the big world of IT and i have small projects that you can see on my GitHub.
+  I 💖 programming and the big world of IT and i have small projects that you can see on my GitHub.
   Most of my activity in cyberspace is on the Discord platform and I am not anywhere else
   Actually.
   I am interested in back-end and desktop programming, and I don't like front-end programming. I often program my projects with Python and C# programming languages ​​(I am generally interested in machine programming)😁.
