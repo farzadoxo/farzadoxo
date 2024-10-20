@@ -36,7 +36,7 @@
   
   | 💻 Programming | 🔎 Other | 🧰 Using Tools |
   | ----------- | ----------- | ----------- |
-  | ![programming](https://skillicons.dev/icons?i=py,cs,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,replit,vscode,visualstudio,linux,postman)
+  | ![programming](https://skillicons.dev/icons?i=py,cs,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,replit,vscode,visualstudio,postman,linux)
   </div>
 
   
