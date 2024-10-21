@@ -35,13 +35,13 @@
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40"> My Skills</h1>
   <div align="center">
     
-  | 💻 Programming | 📦 Frameworks | 🔎 Other |
-  | ----------- | ----------- | -----------
-  | ![programming](https://skillicons.dev/icons?i=py,cs,html,css) | ![frameworks](https://skillicons.dev/icons?i=fastapi,dotnet) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots) |
+  | 💻 Programming | 📦 Frameworks |
+  | ----------- | ----------- 
+  | ![programming](https://skillicons.dev/icons?i=py,cs,html,css) | ![frameworks](https://skillicons.dev/icons?i=fastapi,dotnet) |
 
   | 🧰 Using Tools |
   | ----------- |
-  | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,replit,vscode,visualstudio,postman,linux,md,bash,regex) |
+  | ![apps](https://skillicons.dev/icons?i=git,github,discord,obsidian,bots,replit,sqlite,vscode,visualstudio,postman,linux,md,bash,regex,wordpress) |
   
   </div>
   </div>
