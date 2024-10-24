@@ -45,7 +45,7 @@
 
   | 🧰 Using Tools |
   | ----------- |
-  | ![apps](https://skillicons.dev/icons?i=git,github,obsidian,bots,replit,sqlite,vscode,visualstudio,postman,linux,md,bash,regex,wordpress) |
+  | ![apps](https://skillicons.dev/icons?i=git,github,obsidian,replit,sqlite,vscode,visualstudio,postman,linux,md,bash,regex) |
   
   </div>
   </div>
