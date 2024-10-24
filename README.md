@@ -48,5 +48,4 @@
 
 
 ______
-<img src="https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&icon=2&pretty=true" />
-
+<img src="https://visitcount.itsvg.in/api?id=farzadoxo&label=Profile%20Views&color=12&icon=2&pretty=true" />
