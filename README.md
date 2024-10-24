@@ -20,7 +20,7 @@
   <h3>You can contact me : </h3>
   <a href="https://discordapp.com/users/1006459247057436703" target="_blank"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" width=5%></a>
   <a href="https://t.me/farzadoxo" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width=5%></a>
-  <a href="www.linkedin.com/in/f-ebrahimi" target="_blank"><img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/linkedin.png" width=5%></a>
+  <a href="https://linkedin.com/in/f-ebrahimi" target="_blank"><img src="https://github.com/farzadoxo/farzadoxo/blob/master/media/linkedin.png" width=5%></a>
 </p>
 </div>
 
