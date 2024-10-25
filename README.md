@@ -28,9 +28,8 @@
 <div id="coding-status">
   <h1><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="40" height="40"> Coding Status</h1>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farzadoxo&show=true&show_icons=true&theme=codeSTACKr&rank_icon=github" width="40%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzadoxo&theme=tokyonight" alt="mystreak" width="40%">
-  <img src="https://github-profile-trophy.vercel.app/?username=farzadoxo&theme=onedark&no-bg=true&no-frame=true" width= 80% />
+  <img src="https://github-readme-stats.vercel.app/api?username=farzadoxo&show=true&show_icons=true&theme=radical&rank_icon=github" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzadoxo&theme=radical" alt="mystreak" width="40%">
   </div>
 </div>
 
