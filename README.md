@@ -16,20 +16,3 @@
   - [Telegram🚀](https://t.me/farzadoxo)
   
 </p>
-</div>
-
-
-<div id="skills">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" height="40"> My Skills</h1>
-  <div align="center">
-    
-  | 💻 Programming | 📦 Frameworks |
-  | ----------- | ----------- 
-  | ![programming](https://skillicons.dev/icons?i=py,cs,html,css) | ![frameworks](https://skillicons.dev/icons?i=fastapi,dotnet) |
-
-  | 🧰 Using Tools |
-  | ----------- |
-  | ![apps](https://skillicons.dev/icons?i=git,github,replit,sqlite,vscode,visualstudio,postman,linux,md,bash,regex) |
-  
-  </div>
-  </div>
