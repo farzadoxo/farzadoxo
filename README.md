@@ -4,7 +4,7 @@ I 💖 programming and the big world of IT <br>
 I am interested in backend and desktop programming. I usually program with <b>🐍Python</b>, but sometimes I also program with <b>C#</b>
 </p>
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /> How can you find me ?</h1>
+<h1>🌐 Contact me</h1>
 
 - <a href="https://linkedin.com/in/f-ebrahimi">💼LinkedIn</a>
 - <a href="https://discordapp.com/user/1006459247057436703">🎮Discord</a>
