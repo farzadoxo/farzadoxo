@@ -8,6 +8,5 @@ I am interested in backend and desktop programming. I usually program with <b>�
 
 - <a href="https://linkedin.com/in/f-ebrahimi">💼LinkedIn</a>
 - <a href="https://discordapp.com/user/1006459247057436703">🎮Discord</a>
-- <a href="https://t.me/farzadoxo">🚀Telegram</a>
 - <a href="mailto:farzadebrahimi.oxo@gmail.com">📧Email</a>
 
