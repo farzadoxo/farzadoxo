@@ -17,8 +17,11 @@
 
 <!------------------------------- SKILLS ------------------------------->
 # ✨ My Skills
-| 💻Languages | 📦 FrameWorks | 🧰 Tools |
-| ----------- | -------------- | -------- |
-| <img src="https://skillicons.dev/icons?i=python,cs"/> | <img src="https://skillicons.dev/icons?i=fastapi,net,django"/> | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,visualstudio,sqlite"/> |
+<h3>I progam with</h3>
+<img src="https://skillicons.dev/icons?i=python,cs"/>
+<h3>Frameworks I Know</h3>
+<img src="https://skillicons.dev/icons?i=fastapi,net,django"/>
+<h3>Tools I use</h3>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,visualstudio,sqlite"/>
 
 <!------------------------------- STATUS ------------------------------->
