@@ -9,7 +9,7 @@
 
 <!------------------------------- ABOUT ------------------------------->
 # 🧑🏻‍💻 About Me
-- 👦🏻 I was born in 2006 and I'm 18 Years Old
+- 👦🏻 born in 2006 and I'm 18 Years Old
 - 📖 My field of Study is Computer Engineer
 - 🌍 I'm Currently live in Iran
 - 💖 I love Programming and Computer world
