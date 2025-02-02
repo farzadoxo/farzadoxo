@@ -15,13 +15,4 @@
 - 💖 I love Programming and Computer world
 - 💻 I like programming for BackEnd and Desktop
 
-<!------------------------------- SKILLS ------------------------------->
-# ✨ My Skills
-<h3>I progam with</h3>
-<img src="https://skillicons.dev/icons?i=python,cs"/>
-<h3>Frameworks I Know</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,net,django"/>
-<h3>Tools I use</h3>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,visualstudio,sqlite"/>
-
 <!------------------------------- STATUS ------------------------------->
