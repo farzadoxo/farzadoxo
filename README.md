@@ -9,9 +9,9 @@
 
 <!------------------------------- ABOUT ------------------------------->
 # 🧑🏻‍💻 About Me
-- 👦🏻 born in 2006 and I'm 18 Years Old
+- 👦🏻 born in 2006 in Iran
 - 📖 My field of Study is Computer Engineer
-- 🌍 I'm Currently live in Iran
+- 🌍 I'm Currently live in Tehran
 - 💖 I love Programming and Computer world
 - 💻 I like programming for BackEnd and Desktop
 
