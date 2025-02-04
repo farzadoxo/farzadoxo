@@ -9,7 +9,7 @@
 
 <!------------------------------- ABOUT ------------------------------->
 # 🧑🏻‍💻 About Me
-- 👦🏻 born in 2006 in Iran
+- 👦🏻 Born in 2006 in Iran
 - 📖 My field of Study is Computer Engineer
 - 🌍 I'm Currently live in Tehran
 - 💖 I love Programming and Computer world
