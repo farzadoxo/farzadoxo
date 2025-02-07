@@ -10,10 +10,10 @@
 <!------------------------------- ABOUT ------------------------------->
 # 🧑🏻‍💻 About Me
 - 👦🏻 Born in 2006 in Iran
-- 📖 My field of Study is Computer Engineer
+- 📖 My field of study is Computer Engineering
 - 🌍 I'm Currently live in Tehran
 - 💖 I love Programming and Computer world
-- 💻 I like programming for BackEnd and Desktop
+- 👀 I interested in BackEnd and Desktop Programming 
 
 <!------------------------------- STATUS ------------------------------->
 # 📝 Articles
