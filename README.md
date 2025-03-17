@@ -22,3 +22,4 @@
 - [Linux Desktop Environments🐧](https://www.linkedin.com/pulse/linux-desktop-environments-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-farzad-ebrahimi-n16ie/)
 - [Open Sources License🔓](https://www.linkedin.com/pulse/open-sources-license-%D9%85%D8%AC%D9%88%D8%B2-%D9%87%D8%A7%DB%8C-%D8%A7%D9%BE%D9%86-%D8%B3%D9%88%D8%B1%D8%B3-farzad-ebrahimi-znnaf/)
 - [Linux Package Managers📦](https://www.linkedin.com/pulse/linux-package-manager-%D9%85%D8%AF%DB%8C%D8%B1-%D8%A8%D8%B3%D8%AA%D9%87-%D8%AF%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-farzad-ebrahimi-mgwbf/)
+- [Linux Shells🐚](https://www.linkedin.com/pulse/linux-shells-%D8%B4%D9%84-%D9%87%D8%A7%DB%8C-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3%DB%8C-farzad-ebrahimi-hjzwf)
