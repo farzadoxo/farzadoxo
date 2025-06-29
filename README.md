@@ -13,7 +13,6 @@
 - 📖 My field of study is Computer Engineering
 - 🌍 I'm Currently live in Tehran
 - 💖 I love Programming and Computer world
-- 👀 I interested in BackEnd and Desktop Programming 
 
 <!------------------------------- STATUS ------------------------------->
 # 📝 Articles
