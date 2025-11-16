@@ -5,7 +5,7 @@
   <a href="https://discordapp.com/users/1006459247057436703"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg"></a>&nbsp &nbsp
   <a href="https://t.me/farzadoxo"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg"></a>&nbsp &nbsp
   <a href="https://www.linkedin.com/in/f-ebrahimi/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"></a>&nbsp &nbsp
-  <a href="https://www.reddit.com/user/farzad-oxo/"><img src="https://redditbrand.lingoapp.com/s/Logo-d9x3n2?v=42#Dj8WA4"></a>&nbsp &nbsp
+  <a href="https://www.reddit.com/user/farzad-oxo/"><img src="https://images.seeklogo.com/logo-png/51/1/reddit-new-2023-logo-png_seeklogo-511299.png"></a>&nbsp &nbsp
 </div>
 
 <!------------------------------- ABOUT ------------------------------->
