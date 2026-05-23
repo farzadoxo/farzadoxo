@@ -4,3 +4,4 @@ Also i love geeks, Linux🐧!
 
 Sometimes I post articles on various topics, all of which can be viewed on my LinkedIn! <br>
 Take a look at my [gists](https://gist.github.com/farzadoxo) :)
+
